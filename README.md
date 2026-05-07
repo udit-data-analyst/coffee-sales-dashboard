@@ -6,7 +6,7 @@ Developed an interactive Power BI dashboard to analyze coffee shop sales data an
 
 🚀 Key Features
 
-Sales analysis by coffee type
+Sales analysis by coffee type 
 Revenue KPI monitoring
 Cash vs Card payment comparison
 Time-based sales trend analysis
