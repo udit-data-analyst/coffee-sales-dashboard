@@ -1,38 +1,31 @@
-☕ Coffee Sales Dashboard – Power BI
+# ☕ Coffee Sales Dashboard – Power BI
 
-📌 Project Overview
-Developed an interactive Power BI dashboard to analyze coffee shop sales data and generate business insights. The dashboard helps track revenue performance, customer payment preferences, and sales trends across different coffee categories and time periods.
+## 📌 Project Overview
 
+This project analyzes coffee sales data using Power BI dashboards and visualizations. The dashboard provides insights into revenue, customer payment methods, coffee product performance, and sales trends.
 
+## 🚀 Features
 
+* Sales analysis by coffee type
+* Revenue KPI tracking
+* Cash vs Card payment analysis
+* Time-of-day sales trends
+* Interactive dashboard visuals
 
+## 🛠 Tools Used
 
+* Power BI
+* Microsoft Excel
+* Data Cleaning
+* Data Visualization
 
+## 📊 Dashboard Insights
 
+* Top-selling coffee products
+* Peak sales hours identification
+* Payment method comparison
+* Revenue performance tracking
 
+## 👤 Author
 
-
-🚀 Key Features
-•	Sales analysis by coffee type 
-•	Revenue KPI monitoring 
-•	Cash vs Card payment comparison 
-•	Time-based sales trend analysis 
-•	Interactive filters and visuals 
-•	Data-driven business insights 
-
-🛠 Tools & Technologies
-•	Power BI 
-•	Microsoft Excel 
-•	Data Cleaning 
-•	Data Visualization 
-•	Dashboard Design 
-
-📊 Dashboard Insights
-•	Identified top-selling coffee products 
-•	Analyzed peak sales hours 
-•	Compared digital and cash transactions 
-•	Monitored overall revenue performance 
-
- 👤 Author
- Udit Raj Singh
-
+Udit Raj Singh
